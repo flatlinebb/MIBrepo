@@ -1,8 +1,10 @@
 # MIBrepo
 
 SNMP MIB Resource:
+
 http://www.snmplink.org/resource/mib/
-Features articlkes, links and other MIB resources.
+Features articles, links and other MIB resources.
+
 
 Links to SNMP MIB file repositories
 
